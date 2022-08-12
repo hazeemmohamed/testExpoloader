@@ -1,0 +1,10 @@
+Test Case ID,Enabled,selectLoadType,loadType,container,sku,stkHeight,itemQuantity,
+20ftStandardContainer,1,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[1]/div,2392,1230,
+20ftStandardContainer,1,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_2_155_180_470'],2392,2457,locating element by contains method
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_3_145_95_215'],2392,10925,locating element by contains method
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_4_315_180_470'],2392,1118,
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_5_280_185_280'],2392,2016,
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_6_155_180_470'],2392,2457,
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_7_220_145_320'],2392,3056,
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_8_356_305_381'],2392,672,
+20ftStandardContainer,0,/html/body/div[5]/div/div/div/div[2]/div[1]/div/div/div[1]/div,FLOOR LOADING,20ft Standard Container,//div[@title='SKU_9_356_305_381'],2392,672,

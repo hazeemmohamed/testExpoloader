@@ -1,0 +1,13 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+20ftStandardContainer,Click on reset button,"//button[@class=""ant-btn""]",click,,2000
+20ftStandardContainer,click on dropdown,"//input[@type=""search""]",click,,2000
+20ftStandardContainer,select load type,,clickElement,selectLoadType,2000
+20ftStandardContainer,Click on select container,"//*[@id=""__next""]/div/div/div/div[1]/div/div/div[1]/div[1]/div/div[2]/div/div",click,,2000
+20ftStandardContainer,Click on 20ft Standard Container,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[1]/div,click,,2000
+20ftStandardContainer,Click on select SKU,"//*[@id=""__next""]/div/div/div/div[1]/div/div/div[1]/div[3]/div[1]/div/div/div/div",click,,5000
+20ftStandardContainer,Selecting SKU,,clickElement,sku,20000
+20ftStandardContainer,Verify loading type,"//span[@class=""ant-select-selection-item""]",verifyText,loadType,2000
+20ftStandardContainer,Verify container,"//*[@id=""__next""]/div/div/div/div[1]/div/div/div[1]/div[1]/div/div[2]",verifyText,container,2000
+20ftStandardContainer,verify Stacking Height,/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div[2]/div/div[2]/div/div[2]/input,verifyValue,stkHeight,2000
+20ftStandardContainer,Verify item quantity,//input[@id='basic_quantity'],verifyValue,itemQuantity,2000
+20ftStandardContainer,Click on add button,//button[@type='submit'],click,,20000
