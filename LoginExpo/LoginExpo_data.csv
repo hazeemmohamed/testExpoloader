@@ -1,0 +1,12 @@
+Test Case ID,Enabled,url,userName,password,errorMsg
+LoginExpo,0,https://trial.expoloader.com/signin,ajmalhinas,abc,NaN
+LoginExpo,1,NaN,my5843@gmail.com,Pass@5843,NaN
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,`

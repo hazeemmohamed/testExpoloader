@@ -1,0 +1,9 @@
+Test Case ID,Description,Enabled,Data File (if not specified default file will be searched according to convention),Test Case Parameters
+NavExpo,Navigate to expoloader,1,,breakOnFail:1
+LoginExpo,Login to expoloader,1,,breakOnFail:1
+Loading,Basic Container Loading,0,,breakOnFail:1
+floorLoading,Basic Container Loading for FLOOR LOADING TYPE,0,,breakOnFail:1
+floorLoadMultiItem,Load Multiple SKU in Floor Loading,0,,breakOnFail:1
+PalletLoading,Select Pallet Loading Type,0,,breakOnFail:1
+nonStackpalletMultiItemLoad,Load Multiple SKU in Pallet not Stackable,0,,breakOnFail:1
+palletStackMultiItemLoad,Load Multiple SKU in Pallet Stackable,1,,breakOnFail:1

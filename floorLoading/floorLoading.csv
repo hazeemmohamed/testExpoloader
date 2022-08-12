@@ -1,0 +1,13 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+floorLoading,Click on reset button,,clickElement,reset,2000
+floorLoading,click on dropdown,,clickElement,clickLoad,2000
+floorLoading,select load type,,clickElement,selectLoadType,2000
+floorLoading,Click on select container,,clickElement,clickContainer,2000
+floorLoading,Select a Container,,clickElement,selectContainer,2000
+floorLoading,Click on select SKU,,clickElement,clickSKU,2000
+floorLoading,Selecting SKU,,clickElement,sku,10000
+floorLoading,Verify loading type,"//span[@class=""ant-select-selection-item""]",verifyText,loadType,2000
+floorLoading,Verify container,"//*[@id=""__next""]/div/div/div/div[1]/div/div/div[1]/div[1]/div/div[2]",verifyText,container,2000
+floorLoading,verify Stacking Height,/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div[2]/div/div[2]/div/div[2]/input,verifyValue,stkHeight,2000
+floorLoading,Verify item quantity,//input[@id='basic_quantity'],verifyValue,itemQuantity,2000
+floorLoading,Click on add button,//button[@class='ant-btn ant-btn-primary'],click,,10000
